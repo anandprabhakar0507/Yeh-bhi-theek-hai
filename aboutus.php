@@ -125,13 +125,21 @@ else {
 <br>
 
 
-<div class="back">
+
+<div style="background-color: white;">
 
 <h3>
-  <strong> <br><p style="padding-left: 20px; padding-right: 10px;"> This website is made by our team. With the help of our website we are try to bring together all the resturants around to display their menu on our website. The customers who are bored of having food at home or feel like partying and for various other reasons can come to this website and order food online and even pay through online mode. Well, each aspect of our lives is digitalizing so why leave food ordering the old traditional way. We are letting the manager of the restaurant ot have their own interface, log in to it and who all have ordered what all food items. Our websites can link many restaurants and display the food items to the customers. </p> 
-<h2 style="color:red;" align=center> <marquee behavior=scroll direction="left" scrollamount="15">COVID CANNOT STOP YOU FROM GETTING GOOD FOOD </h2></marquee>
-<h1 style="color:red;" align=center> <marquee behavior=scroll direction="right" scrollamount="15">OUR MOTO- GOOD FOOD TO YOU IS GOOD MOOD FOR BOTH OF US<span class=emoji>&#x1F44D;</span><span class=emoji>&#x1F44D;</span><span class=emoji>&#x1F44D;</span></marquee> </h1></h3></div>
-</strong>
+  <strong>
+   <br>
+   <p style="padding-left: 20px; padding-right: 10px;"> This website is made by our team. With the help of our website we are try to bring together all the resturants around to display their menu on our website. The customers who are bored of having food at home or feel like partying and for various other reasons can come to this website and order food online and even pay through online mode. Well, each aspect of our lives is digitalizing so why leave food ordering the old traditional way. We are letting the manager of the restaurant ot have their own interface, log in to it and who all have ordered what all food items. Our websites can link many restaurants and display the food items to the customers.</p></strong></h3></div>
+     
+<h2 style="color:red;" align=center> 
+  <marquee behavior=scroll direction="left" scrollamount="15">COVID CANNOT STOP YOU FROM GETTING GOOD FOOD </marquee>
+</h2>
+
+<h1 style="color:red;" align=center>
+ <marquee behavior=scroll direction="right" scrollamount="15">OUR MOTO- GOOD FOOD TO YOU IS GOOD MOOD FOR BOTH OF US<span class=emoji>&#x1F44D;</span><span class=emoji>&#x1F44D;</span><span class=emoji>&#x1F44D;</span></marquee> </h1>
+
   </body>
 </html>
     
